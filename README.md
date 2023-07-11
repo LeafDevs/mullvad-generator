@@ -14,7 +14,6 @@ please no script kiddies steal my code :) Thank you.
 
 ```
 git clone https://github.com/LeafDevs/mullvad-generator.zip
-
 ```
 
 ```
